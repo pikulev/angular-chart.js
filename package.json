@@ -56,6 +56,6 @@
   },
   "dependencies": {
     "angular": "1.x",
-    "chart.js": "git:https://github.com/pikulev/Chart.js.git#master"
+    "chart.js": "git://github.com/pikulev/Chart.js.git#master"
   }
 }
